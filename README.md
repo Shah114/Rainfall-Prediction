@@ -62,3 +62,7 @@ The trained model will be saved as model/rainfall_prediction.pkl.
    prediction = model.predict(input_df)
    print("Prediction result:", "Rainfall" if prediction[0] == 1 else "No rainfall")
    ```
+
+<br/>
+
+## Data
