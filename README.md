@@ -40,6 +40,7 @@ Run the notebook train_model.ipynb to train the Random Forest model. This notebo
 The trained model will be saved as model/rainfall_prediction.pkl.
 
 <br/>
+
 3. Making Predictions <br/>
 
    Use the saved model for predictions:
