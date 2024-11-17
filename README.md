@@ -26,3 +26,18 @@ The goal is to predict rainfall based on various meteorological features such as
 <br/>
 
 ## Usage
+1. Data Loading and Preprocessing
+The notebook data_preprocessing.ipynb contains the data loading and preprocessing steps. Ensure the dataset is available in the data/ directory.
+<br/>
+
+2. Training the Model
+Run the notebook train_model.ipynb to train the Random Forest model. This notebook includes:
+
+* Loading preprocessed data
+* Training the model
+* Evaluating model performance
+* 
+The trained model will be saved as model/random_forest_model.pkl.
+
+<br/>
+3. Making Predictions
