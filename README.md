@@ -17,8 +17,12 @@ The goal is to predict rainfall based on various meteorological features such as
    cd Rainfall-Prediction
    ```
 
-3. Install the required dependencies:
+2. Install the required dependencies:
    
    ```bash
    pip install -r requirements.txt
    ```
+
+<br/>
+
+## Usage
