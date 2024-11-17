@@ -78,12 +78,12 @@ The dataset used for this project contains meteorological features. <br/>
 ## Results
 The model achieves satisfactory results in predicting rainfall with the following metrics:
 
-* Accuracy: XX.XX%
-* Mean Absolute Error (MAE): X.XX
-* Root Mean Squared Error (RMSE): X.XX
+* Accuracy: 74.46%
+* Mean Absolute Error (MAE): 81.89
 
-Further details can be found in the train_model.ipynb notebook.
+Further details can be found in the RainfallPrediction.ipynb notebook. <br/>
+<br/>
 
 ## Contribution
-
+Contributions are welcome! 
 
