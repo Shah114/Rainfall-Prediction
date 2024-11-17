@@ -41,7 +41,7 @@ The trained model will be saved as model/rainfall_prediction.pkl.
 
 <br/>
 3. Making Predictions <br/>
-Use the saved model for predictions:
+   Use the saved model for predictions:
 
 ```python
 import pickle
