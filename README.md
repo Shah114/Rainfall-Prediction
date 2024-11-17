@@ -10,3 +10,10 @@ The goal is to predict rainfall based on various meteorological features such as
 <br/>
 
 ## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shah114/Rainfall-Prediction.git
+   cd Rainfall-Prediction
+   ```
+
+2. Install the required dependencies:
