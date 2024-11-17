@@ -70,3 +70,7 @@ The dataset used for this project contains meteorological features. <br/>
 <br/>
 
 ## Model Details
+* Algorithm - Random Forest
+* Library - Scikit-learn
+* Saved Model - model/rainfall_prediction.pkl <br/>
+<br/>
