@@ -41,22 +41,23 @@ The trained model will be saved as model/rainfall_prediction.pkl.
 
 <br/>
 3. Making Predictions <br/>
+
    Use the saved model for predictions:
 
-```python
-import pickle
-
-# Load the model
-with open('model/rainfall_prediction.pkl', 'rb') as f:
-    model = pickle.load(f)
-
-# Example prediction
-model = model_data["model"]
-feature_names = model_data["feature_names"]
-
-input_data = (1015.9, 19.9, 95, 81, 0.0, 40.0, 13.7)
-input_df = pd.DataFrame([input_data], columns=feature_names)
-
-prediction = model.predict(input_df)
-print("Prediction result:", "Rainfall" if prediction[0] == 1 else "No rainfall")
-```
+   ```python
+   import pickle
+   
+   # Load the model
+   with open('model/rainfall_prediction.pkl', 'rb') as f:
+       model = pickle.load(f)
+   
+   # Example prediction
+   model = model_data["model"]
+   feature_names = model_data["feature_names"]
+   
+   input_data = (1015.9, 19.9, 95, 81, 0.0, 40.0, 13.7)
+   input_df = pd.DataFrame([input_data], columns=feature_names)
+   
+   prediction = model.predict(input_df)
+   print("Prediction result:", "Rainfall" if prediction[0] == 1 else "No rainfall")
+   ```
