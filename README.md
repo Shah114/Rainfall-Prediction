@@ -66,3 +66,7 @@ The trained model will be saved as model/rainfall_prediction.pkl.
 <br/>
 
 ## Data
+The dataset used for this project contains meteorological features. <br/>
+<br/>
+
+## Model Details
