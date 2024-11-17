@@ -3,3 +3,10 @@ The goal is to predict rainfall based on various meteorological features such as
 <br/>
 
 ## Features
+* Data preprocessing pipeline
+* Random Forest model implementation
+* Saved model file for predictions
+* Example notebook for training and evaluation <br/>
+<br/>
+
+## Installation
