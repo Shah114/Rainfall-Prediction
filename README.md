@@ -74,3 +74,16 @@ The dataset used for this project contains meteorological features. <br/>
 * Library - Scikit-learn
 * Saved Model - model/rainfall_prediction.pkl <br/>
 <br/>
+
+## Results
+The model achieves satisfactory results in predicting rainfall with the following metrics:
+
+* Accuracy: XX.XX%
+* Mean Absolute Error (MAE): X.XX
+* Root Mean Squared Error (RMSE): X.XX
+
+Further details can be found in the train_model.ipynb notebook.
+
+## Contribution
+
+
