@@ -85,5 +85,4 @@ Further details can be found in the RainfallPrediction.ipynb notebook. <br/>
 <br/>
 
 ## Contribution
-Contributions are welcome! 
-
+Contributions are welcome! <br/>
