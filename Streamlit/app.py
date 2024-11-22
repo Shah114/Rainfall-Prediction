@@ -4,7 +4,7 @@ import pickle
 import pandas as pd
 
 # Load the trained model and feature names
-with open('C:/Projects/RainfallPrediction/model/rainfall_prediction.pkl', 'rb') as f:
+with open('model/rainfall_prediction.pkl', 'rb') as f:
     model_data = pickle.load(f)
 
 model = model_data["model"]
